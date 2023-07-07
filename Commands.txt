@@ -1,0 +1,6 @@
+sudo apt-get update
+sudo apt install python3-pip
+sudo pip install apache-airflow
+sudo pip install pandas 
+pip install pydantic==1.9.0
+pip install s3fs==2022.11.0
