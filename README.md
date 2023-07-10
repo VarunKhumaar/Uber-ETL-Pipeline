@@ -14,3 +14,7 @@ Used - GCP Storage, Google Colab, Python, AWS EC2, Airflow workflow orchestratio
 
 Final Tableau Dashboard: [link](https://public.tableau.com/app/profile/varunkhumaar)
 ![Screenshot (71)](https://github.com/VarunKhumaar/Uber-ETL-Pipeline/assets/67249540/5e2eefe1-d231-492b-8bda-329128ee4135)
+
+Ideas/Inspiration from:
+Twitter Data Pipeline using Airflow for Beginners: https://www.youtube.com/watch?v=q8q3OFFfY6c
+Uber Data Analytics: https://www.youtube.com/watch?v=WpQECq5Hx9g
