@@ -5,11 +5,11 @@ Used - GCP Storage, Google Colab, Python, AWS EC2, Airflow workflow orchestratio
 
 
 
-- Extract the data from GCP Cloud Storage
-- Python to transform data - Google Colab notebook
-- Deploy the code on Airflow/EC2 #workflow orchestration
-- Load the transformed data on Amazon S3
-- Connect the S3 bucket to Tableau
+- Extracted the data from GCP Cloud Storage
+- Used Python to perform transformations
+- Deployed the code on Airflow/AWS EC2 #workflow orchestration
+- Loaded the transformed data on Amazon S3 bucket
+- Connected the AWS S3 bucket to Tableau
 
 
 
