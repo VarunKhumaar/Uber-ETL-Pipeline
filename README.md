@@ -1,7 +1,8 @@
 # Uber End-to-End Data Engineering Project using Airflow and Python
 Used - GCP Storage, Google Colab, Python, AWS EC2, Airflow workflow orchestration, AWS S3, and Tableau
 
-![image](https://github.com/VarunKhumaar/Uber-ETL-Pipeline/assets/67249540/d61ae54c-d361-4478-8e02-44bc91ce88bc)
+![image](https://github.com/VarunKhumaar/Uber-ETL-Pipeline/assets/67249540/d8971fe9-a17b-462f-9bca-823ea9377e3e)
+
 
 
 - Extract the data from GCP Cloud Storage
